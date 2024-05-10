@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bannon0293
-- 👀 I’m interested in Data Analytics as career change
+- 👀 I’m interested in Data Analytics as a career change
 - 🌱 I’m currently learning Python/SQL
 - 💞️ I’m looking to collaborate on any projects to apply new skills I'm learning
 - 📫 How to reach me ...
